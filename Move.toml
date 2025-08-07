@@ -4,7 +4,7 @@ version = "1.0.0"
 authors = []
 
 [addresses]
-
+nidhi_addr="0x0e8a154d466c8c34149ce9f8816690cb1169cf6e9e22148d6b3c88af1228708c"
 [dev-addresses]
 
 [dependencies.AptosFramework]
